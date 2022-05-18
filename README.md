@@ -1,11 +1,11 @@
 <h1 align='center'>
-Super Trump Game 
+Super Trump Game 🃏
 </h1>
 
 <h1 align='center'>
   <img src="./assets/animationsptf.gif" />
 </h1>
-<h1 align='center'><a href="">See the site</a></h1>
+<h1 align='center'><a href="https://ewrtonl.github.io/super-trunfo/">See the site</a></h1>
 
 ## 📕 About
 
