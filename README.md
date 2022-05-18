@@ -1,5 +1,5 @@
 <h1 align='center'>
-Super Trump Game 🃏
+Harry Potter's Super Trump Game 🧙‍♂️
 </h1>
 
 <h1 align='center'>
